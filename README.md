@@ -1,5 +1,6 @@
 # Code and Event Catalog for "A Data-Driven Empirical Formula of Dst Minimum Using Symbolic Regression"
 [![DOI](https://zenodo.org/badge/1436483354.svg)](https://doi.org/10.5281/zenodo.24299171)
+
 Jihyeon Son, Yong-Jae Moon, Youngjae Kim, Young-Sil Kwak, and Kyung Sun Park
 
 This archive contains the analysis code and the storm event catalog needed to reproduce
